@@ -1,0 +1,20 @@
+#myCarousel{
+    background-color: aqua;
+}
+#myCarousel img{
+    height: 300px
+}
+.container{
+    text-align: center;
+
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:blanchedalmond;
+    font-size: 30px;
+}
+.img2{
+    width: 250px;
+    height: 200px;
+}
